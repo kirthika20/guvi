@@ -1,6 +1,6 @@
-a=int(input())
-if(a>0):
-  if(a%2==0):
+t=int(input())
+if(t>0):
+  if(t%2==0):
     print("Even")
   else:
     print("Odd")
